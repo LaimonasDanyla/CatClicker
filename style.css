@@ -1,0 +1,19 @@
+form {
+  position: absolute;
+  width: 30%;
+  opacity: 0.5;
+  font-family: sans-serif, verdana, tahoma;
+  font-size: 2em;
+  color: red;
+  text-align: center;
+}
+span {
+  color: white;
+  font-weight: bold;
+  opacity: 1;
+}
+
+input {
+  width: 50%;
+  text-align: center;
+}
